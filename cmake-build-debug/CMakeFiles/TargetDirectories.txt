@@ -1,0 +1,3 @@
+C:/Users/adamd/OneDrive/Pulpit/XD/VSC/programowanie obiektowe w c++/EKOSYSTEM/cmake-build-debug/CMakeFiles/EKOSYSTEM.dir
+C:/Users/adamd/OneDrive/Pulpit/XD/VSC/programowanie obiektowe w c++/EKOSYSTEM/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adamd/OneDrive/Pulpit/XD/VSC/programowanie obiektowe w c++/EKOSYSTEM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
